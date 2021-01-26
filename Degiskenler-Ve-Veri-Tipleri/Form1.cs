@@ -139,6 +139,11 @@ namespace Degiskenler_Ve_Veri_Tipleri
             char harf3 = (char)55; //ascii sayısal karsılıgından char türüne donusum yapabilirsiniz (veri şifrelemede Kullanacağız.)
             char harf4 = '\u0058';   //Unicode karakter ataması yapabilirsiniz
 
+            // sadece 2 değer alabilir ve true doğru bir işlem sonrasında döner, false ise yanlış ve olumsuz değer anlamına gelir.
+            bool Deger1 = true;
+            bool Deger2 = false;
+
+
             // string	Değişken (Metinsel ifadeler için kullanılır)
             string mesaj = "Merhaba Memleket Yazılım!";
 
