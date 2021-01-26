@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-For-Dongusu-Aciklamasi", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-If-Yapisi-Break-Kullanimi", "5-If-Yapisi-Break-Kullanimi\5-If-Yapisi-Break-Kullanimi.csproj", "{7A740FA4-7CCF-4512-98A2-322E4B4B116F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Enterpolasyon-Kullanimi", "6-Enterpolasyon-Kullanimi\6-Enterpolasyon-Kullanimi.csproj", "{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Et-Isareti-Kullanimi", "7-Et-Isareti-Kullanimi\7-Et-Isareti-Kullanimi.csproj", "{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7A740FA4-7CCF-4512-98A2-322E4B4B116F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A740FA4-7CCF-4512-98A2-322E4B4B116F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A740FA4-7CCF-4512-98A2-322E4B4B116F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
