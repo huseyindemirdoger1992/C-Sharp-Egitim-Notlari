@@ -23,7 +23,7 @@ namespace Convert_Parse_ToString
             int sayi1 = 0;
             sayi1.ToString(); // Sayısal ve boolen değerlerini metinsel ifadeye çevirmek için kulanılır.
 
-            // Kullanımı
+            // Convert Kullanımı
             string sayi2 = "0";
             Convert.ToInt32(sayi2); // bir nesnenin text özelliğinden gelen değer string tipindedir ve Convert yapısı ile sayısal tipe çevrilebilir.
 

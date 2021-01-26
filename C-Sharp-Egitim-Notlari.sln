@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Karar-Yapilari-Kullanimi"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Convert-Parse-ToString", "Convert-Parse-ToString\3-Convert-Parse-ToString.csproj", "{5290BC10-2617-4398-A1F0-7795D19708A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-For-Dongusu-Aciklamasi", "4-For-Dongusu-Aciklamasi\4-For-Dongusu-Aciklamasi.csproj", "{47C3752F-15A0-4E59-9050-930DED79A05B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5290BC10-2617-4398-A1F0-7795D19708A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5290BC10-2617-4398-A1F0-7795D19708A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5290BC10-2617-4398-A1F0-7795D19708A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C3752F-15A0-4E59-9050-930DED79A05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C3752F-15A0-4E59-9050-930DED79A05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C3752F-15A0-4E59-9050-930DED79A05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C3752F-15A0-4E59-9050-930DED79A05B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
