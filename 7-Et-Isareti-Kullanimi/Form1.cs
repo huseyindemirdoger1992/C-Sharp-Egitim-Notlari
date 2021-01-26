@@ -19,9 +19,10 @@ namespace _7_Et_Isareti_Kullanimi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string HataliKullanim = "Hüseyin \ DEMİRDÖĞER";
+            // string HataliKullanim = "Hüseyin \ DEMİRDÖĞER";
 
             string Cozum1 = "Hüseyin \\ DEMİRDÖĞER";
+
             string Cozum2 = @"Hüseyin \ DEMİRDÖĞER";
         }
     }
