@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematiksel-Islemler", "Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case-Kullanimi", "Switch-Case-Kullanimi\Switch-Case-Kullanimi.csproj", "{B00A486B-E748-4998-BBCF-DF8907B56FC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary-Operatoru-Kullanimi", "Ternary-Operatoru-Kullanimi\Ternary-Operatoru-Kullanimi.csproj", "{30602556-8379-4516-A4B9-FC0E0F58E1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B00A486B-E748-4998-BBCF-DF8907B56FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B00A486B-E748-4998-BBCF-DF8907B56FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B00A486B-E748-4998-BBCF-DF8907B56FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30602556-8379-4516-A4B9-FC0E0F58E1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30602556-8379-4516-A4B9-FC0E0F58E1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30602556-8379-4516-A4B9-FC0E0F58E1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30602556-8379-4516-A4B9-FC0E0F58E1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
