@@ -36,7 +36,7 @@ namespace _9_TryCatch_Kullanimi
 
             }
             // Bir problem olursa devreye girer
-            catch (Exception ex) // değişken ile de hata değeri değişkene atanmış olur
+            catch (Exception ex) // değişken ile de hata değeri ex değişkenine atanmış olur
             {
 
                 throw; // Kullanıcıya hatayı gösterir
