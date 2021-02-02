@@ -32,7 +32,7 @@ namespace _4_For_Dongusu_Aciklamasi
 
             for (uint i = 0; i < 900; )
             {
-                // int i = 0;   1. yapıda değişken tipi(uint) belirlenir ve değişken attanır. Başlangıç noktası atanır.
+                // uint i = 0;   1. yapıda değişken tipi(uint) belirlenir ve değişken attanır. Başlangıç noktası atanır.
                 // i < 10;      2. yapıda ise değişken sınırı belirlenir
                 // i++          3. yapıda ise artış mikratı belirtilir.
             }
@@ -40,14 +40,14 @@ namespace _4_For_Dongusu_Aciklamasi
 
             for (double i = 1000; i < 9900; i += 2)
             {
-                // int i = 1000;   1. yapıda değişken tipi(double) belirlenir ve değişken attanır. Başlangıç noktası atanır.
+                // double i = 1000;   1. yapıda değişken tipi(double) belirlenir ve değişken attanır. Başlangıç noktası atanır.
                 // i < 10;      2. yapıda ise değişken sınırı belirlenir
                 // += 2         3. yapıda ise artış mikratı belirtilir. 2 şer olarak sayarak artar
             }
 
-            for (double i = 0; i < 9900; i -= 2)
+            for (long i = 0; i < 9900; i -= 2)
             {
-                // int i = 0;   1. yapıda değişken tipi(double) belirlenir ve değişken attanır. Başlangıç noktası atanır.
+                // long i = 0;   1. yapıda değişken tipi(long) belirlenir ve değişken attanır. Başlangıç noktası atanır.
                 // i < 10;      2. yapıda ise değişken sınırı belirlenir
                 // -= 2         3. yapıda ise artış mikratı belirtilir. 2 şer olarak sayarak eksilir
             }

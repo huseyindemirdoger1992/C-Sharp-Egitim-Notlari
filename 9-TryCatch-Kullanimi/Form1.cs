@@ -44,5 +44,56 @@ namespace _9_TryCatch_Kullanimi
 
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int sayi = Convert.ToInt32(txtGelenDeger.Text);
+            MessageBox.Show("Tebrikler Başardın");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int sayi = Convert.ToInt32(txtGelenDeger.Text);
+                MessageBox.Show("Tebrikler Başardın");
+            }
+            catch
+            {
+                MessageBox.Show("İşlem Hatası");
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int sayi = Convert.ToInt32(txtGelenDeger.Text);
+                MessageBox.Show("Tebrikler Başardın");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("İşlem Hatası");
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int sayi = Convert.ToInt32(txtGelenDeger.Text);
+                MessageBox.Show("Tebrikler Başardın");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("İşlem Hatası");
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                MessageBox.Show("Hata alsam da almasam da çalışırım :)");
+            }
+        }
     }
 }

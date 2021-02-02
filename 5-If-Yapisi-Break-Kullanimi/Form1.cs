@@ -19,11 +19,6 @@ namespace _5_If_Yapisi_Break_Kullanimi
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-
-
-
-
             for (int i = 0; i < 10; i++) // Döngü başlatılır
             {
                 if (i == 5) // Karar yapısı oluşturulur
@@ -31,11 +26,6 @@ namespace _5_If_Yapisi_Break_Kullanimi
                     break; // Bulunduğun döngüyü bitirip işleyişi dışarı atar.
                 }
             }
-
-
-
-
-
         }
     }
 }

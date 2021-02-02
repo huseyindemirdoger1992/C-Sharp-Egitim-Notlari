@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Degiskenler-Ve-Veri-Tipleri", "Degiskenler-Ve-Veri-Tipleri\1-Degiskenler-Ve-Veri-Tipleri.csproj", "{BC0DF690-0BA8-4A17-B0CE-B8D6C41D5E56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler-Ve-Veri-Tipleri", "Degiskenler-Ve-Veri-Tipleri\Degiskenler-Ve-Veri-Tipleri.csproj", "{BC0DF690-0BA8-4A17-B0CE-B8D6C41D5E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Karar-Yapilari-IfElse", "Karar-Yapilari-Kullanimi\2-Karar-Yapilari-IfElse.csproj", "{14FC97DE-326E-432C-BA2A-5ECBB7A0EC42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar-Yapilari-IfElse", "Karar-Yapilari-Kullanimi\Karar-Yapilari-IfElse.csproj", "{14FC97DE-326E-432C-BA2A-5ECBB7A0EC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Convert-Parse-ToString", "Convert-Parse-ToString\3-Convert-Parse-ToString.csproj", "{5290BC10-2617-4398-A1F0-7795D19708A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert-Parse-ToString", "Convert-Parse-ToString\Convert-Parse-ToString.csproj", "{5290BC10-2617-4398-A1F0-7795D19708A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-For-Dongusu-Aciklamasi", "4-For-Dongusu-Aciklamasi\4-For-Dongusu-Aciklamasi.csproj", "{47C3752F-15A0-4E59-9050-930DED79A05B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For-Dongusu-Aciklamasi", "4-For-Dongusu-Aciklamasi\For-Dongusu-Aciklamasi.csproj", "{47C3752F-15A0-4E59-9050-930DED79A05B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-If-Yapisi-Break-Kullanimi", "5-If-Yapisi-Break-Kullanimi\5-If-Yapisi-Break-Kullanimi.csproj", "{7A740FA4-7CCF-4512-98A2-322E4B4B116F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Yapisi-Break-Kullanimi", "5-If-Yapisi-Break-Kullanimi\If-Yapisi-Break-Kullanimi.csproj", "{7A740FA4-7CCF-4512-98A2-322E4B4B116F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Enterpolasyon-DolarIsareti-Kullanimi", "6-Enterpolasyon-Kullanimi\6-Enterpolasyon-DolarIsareti-Kullanimi.csproj", "{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterpolasyon-DolarIsareti-Kullanimi", "6-Enterpolasyon-Kullanimi\Enterpolasyon-DolarIsareti-Kullanimi.csproj", "{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Et-Isareti-Kullanimi", "7-Et-Isareti-Kullanimi\7-Et-Isareti-Kullanimi.csproj", "{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Et-Isareti-Kullanimi", "7-Et-Isareti-Kullanimi\Et-Isareti-Kullanimi.csproj", "{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Enterpolasyon-ET-Beraber-Kullanimi", "8-Enterpolasyon-ET-Beraber-Kullanimi\8-Enterpolasyon-ET-Beraber-Kullanimi.csproj", "{0D13EF7D-013B-4D0E-8E22-F9B307D130A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterpolasyon-ET-Beraber-Kullanimi", "8-Enterpolasyon-ET-Beraber-Kullanimi\Enterpolasyon-ET-Beraber-Kullanimi.csproj", "{0D13EF7D-013B-4D0E-8E22-F9B307D130A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-TryCatch-Kullanimi", "9-TryCatch-Kullanimi\9-TryCatch-Kullanimi.csproj", "{B2DF9B69-342F-40B1-AEC0-FF5BDEF5F746}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch-Kullanimi", "9-TryCatch-Kullanimi\TryCatch-Kullanimi.csproj", "{B2DF9B69-342F-40B1-AEC0-FF5BDEF5F746}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematiksel-Islemler", "Matematiksel-Islemler\Matematiksel-Islemler.csproj", "{DDCB3D8C-06A6-4628-AB64-A106207D330D}"
 EndProject
@@ -28,6 +28,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary-Operatoru-Kullanimi", "Ternary-Operatoru-Kullanimi\Ternary-Operatoru-Kullanimi.csproj", "{30602556-8379-4516-A4B9-FC0E0F58E1F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-Dizi-Kullanimi", "Array-Dizi-Kullanimi\Array-Dizi-Kullanimi.csproj", "{E2EFE1E3-A255-4CAD-9BEE-16D5BA65E31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematiksel-Operatorler", "Matematiksel-Operatorler\Matematiksel-Operatorler.csproj", "{916E61AB-1B4C-4EAF-BB7C-A8AB260C7F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aritmetiksel-Ornek", "Aritmetiksel-Ornekler\Aritmetiksel-Ornek.csproj", "{C3F4730C-5623-4AC3-B701-06E442CE773F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-Diziler", "Array-Diziler\Array-Diziler.csproj", "{410F199C-2772-4D6F-8761-7C8EDB2789AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{E2EFE1E3-A255-4CAD-9BEE-16D5BA65E31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2EFE1E3-A255-4CAD-9BEE-16D5BA65E31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2EFE1E3-A255-4CAD-9BEE-16D5BA65E31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916E61AB-1B4C-4EAF-BB7C-A8AB260C7F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916E61AB-1B4C-4EAF-BB7C-A8AB260C7F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916E61AB-1B4C-4EAF-BB7C-A8AB260C7F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916E61AB-1B4C-4EAF-BB7C-A8AB260C7F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F4730C-5623-4AC3-B701-06E442CE773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F4730C-5623-4AC3-B701-06E442CE773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F4730C-5623-4AC3-B701-06E442CE773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F4730C-5623-4AC3-B701-06E442CE773F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410F199C-2772-4D6F-8761-7C8EDB2789AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410F199C-2772-4D6F-8761-7C8EDB2789AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410F199C-2772-4D6F-8761-7C8EDB2789AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410F199C-2772-4D6F-8761-7C8EDB2789AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
