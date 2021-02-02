@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler-Ve-Veri-Tipleri", "Degiskenler-Ve-Veri-Tipleri\Degiskenler-Ve-Veri-Tipleri.csproj", "{BC0DF690-0BA8-4A17-B0CE-B8D6C41D5E56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-A---Degiskenler-Ve-Veri-Tipleri", "Degiskenler-Ve-Veri-Tipleri\WFA-A---Degiskenler-Ve-Veri-Tipleri.csproj", "{BC0DF690-0BA8-4A17-B0CE-B8D6C41D5E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert-Parse-ToString", "Convert-Parse-ToString\Convert-Parse-ToString.csproj", "{5290BC10-2617-4398-A1F0-7795D19708A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-C---Convert-Parse-ToString", "Convert-Parse-ToString\WFA-C---Convert-Parse-ToString.csproj", "{5290BC10-2617-4398-A1F0-7795D19708A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For-Dongusu-Aciklamasi", "4-For-Dongusu-Aciklamasi\For-Dongusu-Aciklamasi.csproj", "{47C3752F-15A0-4E59-9050-930DED79A05B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-L---For-Dongusu-Aciklamasi", "4-For-Dongusu-Aciklamasi\WFA-L---For-Dongusu-Aciklamasi.csproj", "{47C3752F-15A0-4E59-9050-930DED79A05B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Yapisi-Break-Kullanimi", "5-If-Yapisi-Break-Kullanimi\If-Yapisi-Break-Kullanimi.csproj", "{7A740FA4-7CCF-4512-98A2-322E4B4B116F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-H---If-Yapisi-Break-Kullanimi", "5-If-Yapisi-Break-Kullanimi\WFA-H---If-Yapisi-Break-Kullanimi.csproj", "{7A740FA4-7CCF-4512-98A2-322E4B4B116F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterpolasyon-DolarIsareti-Kullanimi", "6-Enterpolasyon-Kullanimi\Enterpolasyon-DolarIsareti-Kullanimi.csproj", "{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-E---Enterpolasyon-DolarIsareti-Kullanimi", "6-Enterpolasyon-Kullanimi\WFA-E---Enterpolasyon-DolarIsareti-Kullanimi.csproj", "{626497FD-9FFD-47DC-AF7C-62FF84BA0D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Et-Isareti-Kullanimi", "7-Et-Isareti-Kullanimi\Et-Isareti-Kullanimi.csproj", "{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-F---Et-Isareti-Kullanimi", "7-Et-Isareti-Kullanimi\WFA-F---Et-Isareti-Kullanimi.csproj", "{D6FC5328-5B00-434F-BBAF-4B4BB46626E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enterpolasyon-ET-Beraber-Kullanimi", "8-Enterpolasyon-ET-Beraber-Kullanimi\Enterpolasyon-ET-Beraber-Kullanimi.csproj", "{0D13EF7D-013B-4D0E-8E22-F9B307D130A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-G---Enterpolasyon-ET-Beraber-Kullanimi", "8-Enterpolasyon-ET-Beraber-Kullanimi\WFA-G---Enterpolasyon-ET-Beraber-Kullanimi.csproj", "{0D13EF7D-013B-4D0E-8E22-F9B307D130A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch-Kullanimi", "9-TryCatch-Kullanimi\TryCatch-Kullanimi.csproj", "{B2DF9B69-342F-40B1-AEC0-FF5BDEF5F746}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-D---TryCatch-Kullanimi", "9-TryCatch-Kullanimi\WFA-D---TryCatch-Kullanimi.csproj", "{B2DF9B69-342F-40B1-AEC0-FF5BDEF5F746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematiksel-Islemler", "Matematiksel-Islemler\Matematiksel-Islemler.csproj", "{DDCB3D8C-06A6-4628-AB64-A106207D330D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-B---Matematiksel-Islemler", "Matematiksel-Islemler\WFA-B---Matematiksel-Islemler.csproj", "{DDCB3D8C-06A6-4628-AB64-A106207D330D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case-Kullanimi", "Switch-Case-Kullanimi\Switch-Case-Kullanimi.csproj", "{B00A486B-E748-4998-BBCF-DF8907B56FC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-J---Switch-Case-Kullanimi", "Switch-Case-Kullanimi\WFA-J---Switch-Case-Kullanimi.csproj", "{B00A486B-E748-4998-BBCF-DF8907B56FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary-Operatoru-Kullanimi", "Ternary-Operatoru-Kullanimi\Ternary-Operatoru-Kullanimi.csproj", "{30602556-8379-4516-A4B9-FC0E0F58E1F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-K---Ternary-Operatoru-Kullanimi", "Ternary-Operatoru-Kullanimi\WFA-K---Ternary-Operatoru-Kullanimi.csproj", "{30602556-8379-4516-A4B9-FC0E0F58E1F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-Diziler", "Array-Diziler\Array-Diziler.csproj", "{410F199C-2772-4D6F-8761-7C8EDB2789AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-M---Array-Diziler", "Array-Diziler\WFA-M---Array-Diziler.csproj", "{410F199C-2772-4D6F-8761-7C8EDB2789AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{96B6B528-C72A-45BB-A822-5AB9A2D6B9A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-N---Metotlar", "Metotlar\WFA-N---Metotlar.csproj", "{96B6B528-C72A-45BB-A822-5AB9A2D6B9A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String-Metotlar", "String-Metotlar\String-Metotlar.csproj", "{D2008990-8713-49CF-B40A-0AA4067CCCAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA-O---String-Metotlar", "String-Metotlar\WFA-O---String-Metotlar.csproj", "{D2008990-8713-49CF-B40A-0AA4067CCCAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
