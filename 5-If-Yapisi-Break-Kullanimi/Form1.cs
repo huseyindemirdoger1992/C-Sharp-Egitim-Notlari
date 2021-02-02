@@ -19,7 +19,21 @@ namespace _5_If_Yapisi_Break_Kullanimi
 
         private void button1_Click(object sender, EventArgs e)
         {
+            /*
+ Kullanılabilir karar yapıları
+< Soldaki yapı sağdaki yapıdan küçük ise çalışır
+> Soldaki yapı sağdaki yapıdan büyük ise çalışır
+<= Soldaki yapı sağdaki yapıdan küçük ise veya eşit ise çalışır
+>= Soldaki yapı sağdaki yapıdan büyük ise veya eşit ise çalışır
+== Sol ve sağ yağı birbirlerine eşit ise çalışır
+!= soldaki yapı ile sağdaki yapı birbirine eşit değil ise çalışır
+ */
 
+            /*
+             Kullanılabilir Bağlaç Örnekleri
+            && Soldaki ve sağdaki koşullar sağlanır ise çalışır
+            || Soldaki yada sağdaki yapıdan herhangi birinin koşulu sağlaması yeterlidir
+             */
 
 
             // if kullanımında şartın gerçekleşmesi durumunda hangi işlemlerin yapılacağı ayrı ayrı yazılabilir.
